@@ -1,0 +1,14 @@
+
+.form{
+    padding: 0px 400px;
+}
+
+.form input , .form textarea{
+width: 100%;
+}
+#table{
+    padding: 0px 400px;
+}
+.form button{
+   margin-right: 30px; 
+}
