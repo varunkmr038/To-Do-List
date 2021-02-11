@@ -1,10 +1,10 @@
-# TO DO List      <img align="center" width="50" height="50" src="img/icon.jpg">
-### An elegant single page food ordering web application using Pure HTML and CSS
+# To Do List      <img align="center" width="50" height="50" src="img/icon.jpg">
+### The project is based on storing list of todos. It provides simple UI to interact and perform basic operations like add and delete particular ToDo.
 ## Tech Stack used: 
 - HTML
 - CSS
 - Bootstrap
 - Javascript
 
-## [Live Site](https://my-online-meals.netlify.app)
- https://my-online-meals.netlify.app/
+## [Live Site](https://todo-listweb.netlify.app)
+https://todo-listweb.netlify.app
