@@ -1,6 +1,6 @@
 # To Do List      <img align="center" width="50" height="50" src="img/icon.jpg">
 ### The project is based on storing list of todos. It provides simple UI to interact and perform basic operations like add and delete particular ToDo.
-## Tech Stack used: 
+## :rocket: Tech Stack used: 
 - HTML
 - CSS
 - Bootstrap
